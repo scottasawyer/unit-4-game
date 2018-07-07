@@ -1,0 +1,17 @@
+body {
+    background: lightslategray;
+}
+.crystalhead {
+    background-image: url("../images/crystal_back.jpg");
+    color: white;
+}
+
+.text-white {
+    color: white;
+}
+
+.score {
+    text-align: center;
+}
+
+
